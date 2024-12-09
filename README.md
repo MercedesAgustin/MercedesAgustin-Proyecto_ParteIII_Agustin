@@ -1,4 +1,4 @@
-# Análisis de siniestros viales en autopistas de Buenos Aires
+# Análisis de siniestros viales en autopistas de Buenos Aires AUSA
 
 Este proyecto utiliza técnicas de ciencia de datos para analizar los siniestros viales ocurridos en las autopistas de la Ciudad de Buenos Aires. A través de la limpieza, análisis y modelado de datos, se busca predecir patrones importantes y generar recomendaciones basadas en los resultados obtenidos.
 

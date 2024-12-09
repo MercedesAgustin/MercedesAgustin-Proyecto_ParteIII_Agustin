@@ -15,9 +15,3 @@ Este proyecto utiliza técnicas de ciencia de datos para analizar los siniestros
 
 4. **Conclusiones y recomendaciones:**
    Generación de insights clave y acciones recomendadas basadas en los resultados.
-
-## Instrucciones para usar el proyecto
-
-1. Clona este repositorio en tu computadora:
-   ```bash
-   git clone https://github.com/MercedesAgustin/MercedesAgustin-Proyecto_ParteIII_Agustin.git
